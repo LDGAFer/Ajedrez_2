@@ -4,7 +4,6 @@
  */
 package Principal;
  //hello world
-//Good bye
 /**
  *
  * @author FERNANDO

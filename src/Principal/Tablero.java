@@ -17,6 +17,7 @@ public class Tablero extends javax.swing.JDialog {
     public Tablero(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
         initComponents();
+        // ESTO ES UN COMENTARIO DE PRUEBA
     }
 
     /**

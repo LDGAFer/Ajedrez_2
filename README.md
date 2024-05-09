@@ -13,4 +13,5 @@ Una vez que el usuario ya haya seleccionado sus reglas, sera redireccionado al t
 Pantallas de fin de juego: 
 Una vez que haya terminado la partida, se mostraran diferentes pantallas de victoria dependiendo del resultado del jugador, si gano, perdio o hubo empate. 
 
-Para mayor información, refereirse al sitiio Wiki: 
+Para mayor información, refereirse al sitiio Wiki: https://github.com/LDGAFer/Ajedrez_2/wiki
+
